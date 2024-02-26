@@ -1,2 +1,2 @@
-######20 Questions Explored
+# 20 Questions Explored
 
