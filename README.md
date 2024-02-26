@@ -1,3 +1,4 @@
+##20 Questions Explored
 Q.1.Write a query to create a patients table with the fields such as date, patient id, patient name, age, weight, gender, location, phone number, disease, doctor name, and doctor id.
 
 Q.2.Write a query to insert values into the patients table.
