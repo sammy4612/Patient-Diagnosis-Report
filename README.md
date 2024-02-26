@@ -1,8 +1,13 @@
 # 20 Questions Explored
 
+From the dataset, I explored the following 20 questions utilizing PostgreSQL:
+
 Q.1.Write a query to create a patients table with the fields such as date, patient id, patient name, age, weight, gender, location, phone number, disease, doctor name, and doctor id.
+
 Q.2.Write a query to insert values into the patients table.
+
 Q.3. Write a query to display the total number of patients in the table.
+
 Q.4. Write a query to display the patient id, patient name, gender, and disease of the patient whose age is maximum.
 Q.5. Write a query to display patient id and patient name with the current date.
 Q.6. Write a query to display the old patient’s name and new patient's name in uppercase.
